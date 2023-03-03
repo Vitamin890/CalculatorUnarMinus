@@ -3,7 +3,7 @@ namespace ConsoleApp.Tests
     public class CalculatorTest
     {
         [Fact]
-        public void UnarMinus()
+        public void TestMethod_UnarMinus()
         {
             // -2+13-(2*2)/3
 
